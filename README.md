@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HIMANSHUCHAUDHARY12
+- 👋 Hi, I’m @HIMANSHU CHAUDHARY
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web development
 - 💞️ codephile
